@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleGetInfoString</key>
+    <string>Logitech Headset DFU</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.logitech.headsetdfu</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Logitech Headset DFU</string>
+    <key>CFBundlePackageType</key>
+    <string>KEXT</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleExecutable</key>
+    <string>LogiHeadsetDFU</string>
+    <key>IOKitPersonalities</key>
+    <dict>
+        <key>Logitech H800 HID</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.apple.kpi.iokit</string>
+            <key>IOClass</key>
+            <string>IOService</string>
+            <key>IOProviderClass</key>
+            <string>IOUSBDevice</string>
+            <key>idProduct</key>
+            <integer>2603</integer>
+            <key>idVendor</key>
+            <integer>1133</integer>
+            <key>IOProbeScore</key>
+            <integer>99999999</integer>
+        </dict>
+        <key>Logitech H800 DFU</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.apple.kpi.iokit</string>
+            <key>IOClass</key>
+            <string>IOService</string>
+            <key>IOProviderClass</key>
+            <string>IOUSBDevice</string>
+            <key>idProduct</key>
+            <integer>2604</integer>
+            <key>idVendor</key>
+            <integer>1133</integer>
+            <key>IOProbeScore</key>
+            <integer>99999999</integer>
+        </dict>
+        <key>Logitech Wembley HID</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.apple.kpi.iokit</string>
+            <key>IOClass</key>
+            <string>IOService</string>
+            <key>IOProviderClass</key>
+            <string>IOUSBDevice</string>
+            <key>idProduct</key>
+            <integer>2613</integer>
+            <key>idVendor</key>
+            <integer>1133</integer>
+            <key>IOProbeScore</key>
+            <integer>99999999</integer>
+        </dict>
+        <key>Logitech Wembley DFU</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.apple.kpi.iokit</string>
+            <key>IOClass</key>                                        
+            <string>IOService</string>
+            <key>IOProviderClass</key>
+            <string>IOUSBDevice</string>
+            <key>idProduct</key>
+            <integer>2614</integer>
+            <key>idVendor</key>
+            <integer>1133</integer>
+            <key>IOProbeScore</key>
+            <integer>99999999</integer>
+        </dict>
+        <key>Logitech Stones HID old</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.apple.kpi.iokit</string>
+            <key>IOClass</key>
+            <string>IOService</string>
+            <key>IOProviderClass</key>
+            <string>IOUSBDevice</string>
+            <key>idProduct</key>
+            <integer>2621</integer>
+            <key>idVendor</key>
+            <integer>1133</integer>
+            <key>IOProbeScore</key>
+            <integer>99999999</integer>
+        </dict>
+        <key>Logitech Stones HID</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.apple.kpi.iokit</string>
+            <key>IOClass</key>
+            <string>IOService</string>
+            <key>IOProviderClass</key>
+            <string>IOUSBDevice</string>
+            <key>idProduct</key>
+            <integer>2622</integer>
+            <key>idVendor</key>
+            <integer>1133</integer>
+            <key>IOProbeScore</key>
+            <integer>99999999</integer>
+        </dict>
+        <key>Logitech Stones DFU</key>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>com.apple.kpi.iokit</string>
+            <key>IOClass</key>
+            <string>IOService</string>
+            <key>IOProviderClass</key>
+            <string>IOUSBDevice</string>
+            <key>idProduct</key>
+            <integer>2619</integer>
+            <key>idVendor</key>
+            <integer>1133</integer>
+            <key>IOProbeScore</key>
+            <integer>99999999</integer>
+        </dict>
+    </dict>
+    <key>OSBundleLibraries</key>
+    <dict>
+        <key>com.apple.kpi.iokit</key>
+        <string>11.0</string>
+        <key>com.apple.iokit.IOUSBFamily</key>
+        <string>4.4</string>
+    </dict>
+    <key>OSBundleRequired</key>
+    <string>Safe Boot</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmwaremanifest version="1">
+    <device pid="0xa82" vid="0x46d" id="Mendocino">
+        <fw version="1.2.35" size="1866398" name="mendocino_1.2.35_Release.dfu" date="20190226010916" hash="685c014f26bc2962369366c355f10573"/>
+    </device>
+</firmwaremanifest>

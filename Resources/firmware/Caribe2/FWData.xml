@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmwaremanifest version="1">
+    <device pid="0xa69" vid="0x46d" id="Caribe2">
+        <fw version="2.0.12" size="1676740" name="caribe_2.0.12_Release.dfu" date="20160411213526" hash="8edbd68c8f06970bf030e8de87abe592"/>
+    </device>
+</firmwaremanifest>

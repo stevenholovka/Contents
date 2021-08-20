@@ -1,0 +1,45 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/lang">
+        <!--
+        <file alias="cs-CZ.qm">lang-compiled/cs-CZ.qm</file>
+        <file alias="da-DK.qm">lang-compiled/da-DK.qm</file>
+        <file alias="fi-FI.qm">lang-compiled/fi-FI.qm</file>
+        <file alias="hu-HU.qm">lang-compiled/hu-HU.qm</file>
+        <file alias="pl-PL.qm">lang-compiled/pl-PL.qm</file>
+        <file alias="pt-PT.qm">lang-compiled/pt-PT.qm</file>
+        <file alias="it-IT.qm">lang-compiled/it-IT.qm</file>
+        <file alias="nb-NO.qm">lang-compiled/nb-NO.qm</file>
+        <file alias="nl-NL.qm">lang-compiled/nl-NL.qm</file>
+        <file alias="ru-RU.qm">lang-compiled/ru-RU.qm</file>
+        <file alias="sv-SE.qm">lang-compiled/sv-SE.qm</file>
+        -->
+        
+        <file alias="de-DE.qm">lang-compiled/de-DE.qm</file>
+        <file alias="en-US.qm">lang-compiled/en-US.qm</file>
+        <file alias="es-ES.qm">lang-compiled/es-ES.qm</file>
+        <file alias="fr-FR.qm">lang-compiled/fr-FR.qm</file>
+        <file alias="ja-JP.qm">lang-compiled/ja-JP.qm</file>
+        <file alias="ko-KR.qm">lang-compiled/ko-KR.qm</file>
+        <file alias="zh-CN.qm">lang-compiled/zh-CN.qm</file>
+        <file alias="zh-TW.qm">lang-compiled/zh-TW.qm</file>
+    </qresource>
+    <qresource>
+        <file>images/breakpoint.png</file>
+        <file>images/failure.png</file>
+        <file>images/logo_enu.png</file>
+        <file>images/logo_jpn.png</file>
+        <file>images/nav_refresh_blue.png</file>
+        <file>images/navigate_close.png</file>
+        <file>images/navigate_left.png</file>
+        <file>images/navigate_open.png</file>
+        <file>images/navigate_right.png</file>
+        <file>images/navigate_right_big.png</file>
+        <file>images/question.png</file>
+        <file>images/succeed.png</file>
+        <file>images/warning.png</file>
+        <file>images/UE-logo.png</file>
+        <file>images/connect_usb_mac.png</file>
+        <file>images/connect_usb_win.png</file>
+    </qresource>
+</RCC>

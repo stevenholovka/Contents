@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmwaremanifest version="1">
+    <device pid="0xa73" vid="0x46d" id="Brooklyn">
+        <fw version="3.1.199" size="14573568" name="Brooklyn_Pmodule_3_1_199_lfs.bin" date="20190220061700" hash="9610F1B5DF4B8C6CC9C8369842109B54"/>
+    </device>
+</firmwaremanifest>

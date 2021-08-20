@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmwaremanifest version="1">
+    <device pid="0xa5f" vid="0x46d" id="Maximus">
+        <fw version="2.2.1" size="1945322" name="maximus_2.2.1_Release.dfu" date="20180516150652" hash="19a3811cf84505acc6b1f01f6b034a64"/>
+    </device>
+</firmwaremanifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmwaremanifest version="1">
+    <device pid="0xa63" vid="0x46d" id="KoraCR3">
+        <fw version="10.0.13" size="1722108" name="kora_10.0.13_Release_CR.dfu" date="20161119001932" hash="c0bc813d1959318c70cf656e43ff04e6"/>
+    </device>
+</firmwaremanifest>

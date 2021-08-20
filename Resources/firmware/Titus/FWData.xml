@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmwaremanifest version="1">
+    <device pid="0xa54" vid="0x46d" id="Titus">
+        <fw version="2.2.9" size="1932748" name="titus_2.2.9_Release.dfu" date="20180517220508" hash="d8d898764155948a9bff44d231b535e8"/>
+    </device>
+</firmwaremanifest>

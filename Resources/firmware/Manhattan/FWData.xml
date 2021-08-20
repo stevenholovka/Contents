@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<firmwaremanifest version="1">
+    <device pid="0xa6a" vid="0x46d" id="Manhattan">
+        <fw version="3.1.199" size="14581760" name="Manhattan_Pmodule_3_1_199_lfs.bin" date="20190220061200" hash="DBE55D7CB21A30EC0B5B626D7CD3617E"/>
+    </device>
+</firmwaremanifest>
